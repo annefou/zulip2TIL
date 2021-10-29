@@ -38,3 +38,6 @@ Make sure to set the key and email address properly. See [Configuring the Python
 
 The result will be in `zulip_history.json`.
 
+## Formatting
+
+- We will want to have a page similar to [https://www.wezm.net/v2/posts/2020/100-rust-binaries/](https://www.wezm.net/v2/posts/2020/100-rust-binaries/).
